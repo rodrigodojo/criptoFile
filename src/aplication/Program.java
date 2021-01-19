@@ -81,7 +81,7 @@ import util.*;
 			
 		}
 		
-		public void main(String args[]){
+		public static void main(String args[]){
 			
 			Program form = new Program();
 			form.setLayout(null);
